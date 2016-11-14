@@ -1,3 +1,3 @@
 node default {
-  include role::workspace
+  include role::workshop
 }
